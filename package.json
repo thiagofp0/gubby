@@ -1,0 +1,27 @@
+{
+  "name": "gubby",
+  "version": "1.0.0",
+  "description": "Gubby is a scaffolding CLI for MVC projects build using Gluegun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thiagofp0/gubby.git"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "gluegun"
+  ],
+  "author": "Thiago Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagofp0/gubby/issues"
+  },
+  "homepage": "https://github.com/thiagofp0/gubby#readme",
+  "dependencies": {
+    "gluegun": "^4.6.1"
+  }
+}
