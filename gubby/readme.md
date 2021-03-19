@@ -1,23 +1,14 @@
 # gubby CLI
 
-A CLI for gubby.
+A CLI de criação de classes e métodos no padrão adotado pela No Bugs. 
 
-## Customizing your CLI
+## Documentação
 
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
+Check out the repository at https://github.com/thiagofp0/gubby
 
-## Publishing to NPM
+## Autor
 
-To package your CLI up for NPM, do this:
-
-```shell
-$ npm login
-$ npm whoami
-$ npm lint
-$ npm test
-(if typescript, run `npm run build` here)
-$ npm publish
-```
+Feito por Thiago Ferreira.
 
 # License
 
